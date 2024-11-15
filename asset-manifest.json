@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aplicaciones-Web-orientadas-a-servicios/static/css/main.afe424d6.css",
+    "main.js": "/Aplicaciones-Web-orientadas-a-servicios/static/js/main.30e80ccd.js",
+    "index.html": "/Aplicaciones-Web-orientadas-a-servicios/index.html",
+    "main.afe424d6.css.map": "/Aplicaciones-Web-orientadas-a-servicios/static/css/main.afe424d6.css.map",
+    "main.30e80ccd.js.map": "/Aplicaciones-Web-orientadas-a-servicios/static/js/main.30e80ccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe424d6.css",
+    "static/js/main.30e80ccd.js"
+  ]
+}
